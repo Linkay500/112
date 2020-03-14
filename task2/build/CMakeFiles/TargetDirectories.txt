@@ -1,0 +1,14 @@
+/home/timur/tmp/build/CMakeFiles/install/strip.dir
+/home/timur/tmp/build/CMakeFiles/edit_cache.dir
+/home/timur/tmp/build/CMakeFiles/C.dir
+/home/timur/tmp/build/CMakeFiles/rebuild_cache.dir
+/home/timur/tmp/build/CMakeFiles/list_install_components.dir
+/home/timur/tmp/build/CMakeFiles/install/local.dir
+/home/timur/tmp/build/CMakeFiles/install.dir
+/home/timur/tmp/build/B/CMakeFiles/install/strip.dir
+/home/timur/tmp/build/B/CMakeFiles/edit_cache.dir
+/home/timur/tmp/build/B/CMakeFiles/lib.dir
+/home/timur/tmp/build/B/CMakeFiles/rebuild_cache.dir
+/home/timur/tmp/build/B/CMakeFiles/list_install_components.dir
+/home/timur/tmp/build/B/CMakeFiles/install/local.dir
+/home/timur/tmp/build/B/CMakeFiles/install.dir

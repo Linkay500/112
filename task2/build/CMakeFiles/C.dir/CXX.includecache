@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//A/index.h
+math.h
+-
+
+..//B/lib.h
+iostream
+-
+
+/home/timur/tmp/C/main.cpp
+main.h
+/home/timur/tmp/C/main.h
+
+/home/timur/tmp/C/main.h
+A/index.h
+/home/timur/tmp/C/A/index.h
+B/lib.h
+/home/timur/tmp/C/B/lib.h
+

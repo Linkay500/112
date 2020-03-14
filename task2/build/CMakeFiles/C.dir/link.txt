@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/C.dir/C/main.cpp.o  -o ../bin/C -Wl,-rpath,/home/timur/tmp/lib: ../lib/liblib.so 
